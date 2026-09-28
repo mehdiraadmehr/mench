@@ -1,0 +1,10 @@
+{
+  "name": "mench",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mench (Mensch ärgere dich nicht) - local, vs computer, and online multiplayer",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
